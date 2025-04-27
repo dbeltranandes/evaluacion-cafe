@@ -5,6 +5,11 @@ Resultado Final al correr la aplicación:
 
 ![ResultadoParcial](https://github.com/user-attachments/assets/60f4f897-1e9d-4069-8ac1-6a0dcd8ed926)
 
+Ejecución de Pruebas:
+
+![EjecucionPruebas](https://github.com/user-attachments/assets/22b24e38-7f7a-407a-9b11-a4b42779e522)
+
+
 ---------------
 
 # EvaluacionCafe
