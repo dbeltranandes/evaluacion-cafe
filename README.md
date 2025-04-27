@@ -1,3 +1,12 @@
+# Entrega Evaluación práctica de Angular
+Daniel Beltrán Penagos - d.beltran@uniandes.edu.co
+
+Resultado Final al correr la aplicación:
+
+![ResultadoParcial](https://github.com/user-attachments/assets/60f4f897-1e9d-4069-8ac1-6a0dcd8ed926)
+
+---------------
+
 # EvaluacionCafe
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
